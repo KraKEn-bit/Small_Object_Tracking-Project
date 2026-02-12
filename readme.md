@@ -17,8 +17,6 @@ It can track objects from a **video file** or in **real-time via webcam**, and s
 
 ## 🖼️ Demo / Output
 
-Add your prediction image here (recommended folder: `assets/`):
-
 ![Tracking Prediction](https://github.com/KraKEn-bit/Small_Object_Tracking-Project/blob/main/YOLO11%20Tracking%202_12_2026%207_35_24%20PM.png)
 
 
