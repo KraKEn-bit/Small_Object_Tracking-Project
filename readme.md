@@ -28,6 +28,3 @@ Object-tracking/
 │── object_tracker.py        # Track objects in a video file
 │── stream.py                # Track objects using webcam
 │── yolo11n.pt               # YOLOv11 weights file
-│── ult_lrNqIsgc.mp4         # Sample input video (optional)
-│── assets/                  # Screenshots / demo images
-│── runs/                    # Auto-created outputs (saved results)
