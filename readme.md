@@ -1,1 +1,36 @@
+# YOLOv11 Object Tracking 🎯 (Video + Webcam)
 
+A small project that performs **object detection + tracking** using **Ultralytics YOLOv11**.  
+It can track objects from a **video file** or in **real-time via webcam**, and shows tracked results with bounding boxes (and IDs when available).
+
+---
+
+## ✨ Features
+-  Object tracking using **YOLOv11 (Ultralytics)**
+-  Track objects in a **video file** (`object_tracker.py`)
+-  Track objects in **real-time webcam feed** (`stream.py`)
+-  Persistent tracking across frames (`persist=True`)
+-  Save output results to `runs/` (when `save=True`)
+-  Visualized predictions (annotated frames)
+
+---
+
+## 🖼️ Demo / Output
+
+Add your prediction image here (recommended folder: `assets/`):
+
+![Tracking Prediction]([./assets/prediction.png](https://github.com/KraKEn-bit/Small_Object_Tracking-Project/blob/main/YOLO11%20Tracking%202_12_2026%207_35_24%20PM.png))
+
+> Replace `prediction.png` with your real image name.
+
+---
+
+## 📁 Project Structure
+```bash
+Object-tracking/
+│── object_tracker.py        # Track objects in a video file
+│── stream.py                # Track objects using webcam
+│── yolo11n.pt               # YOLOv11 weights file
+│── ult_lrNqIsgc.mp4         # Sample input video (optional)
+│── assets/                  # Screenshots / demo images
+│── runs/                    # Auto-created outputs (saved results)
