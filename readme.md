@@ -19,7 +19,7 @@ It can track objects from a **video file** or in **real-time via webcam**, and s
 
 Add your prediction image here (recommended folder: `assets/`):
 
-![Tracking Prediction]([./assets/prediction.png](https://github.com/KraKEn-bit/Small_Object_Tracking-Project/blob/main/YOLO11%20Tracking%202_12_2026%207_35_24%20PM.png))
+![Tracking Prediction](https://github.com/KraKEn-bit/Small_Object_Tracking-Project/blob/main/YOLO11%20Tracking%202_12_2026%207_35_24%20PM.png)
 
 > Replace `prediction.png` with your real image name.
 
