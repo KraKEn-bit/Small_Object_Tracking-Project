@@ -1,11 +1,11 @@
-# YOLOv11 Object Tracking 🎯 (Video + Webcam)
+# **YOLOv11 Object Tracking 🎯 (Video + Webcam):**
 
 A small project that performs **object detection + tracking** using **Ultralytics YOLOv11**.  
 It can track objects from a **video file** or in **real-time via webcam**, and shows tracked results with bounding boxes (and IDs when available).
 
 ---
 
-## ✨ Features
+#**Features:**
 -  Object tracking using **YOLOv11 (Ultralytics)**
 -  Track objects in a **video file** (`object_tracker.py`)
 -  Track objects in **real-time webcam feed** (`stream.py`)
@@ -21,7 +21,6 @@ Add your prediction image here (recommended folder: `assets/`):
 
 ![Tracking Prediction](https://github.com/KraKEn-bit/Small_Object_Tracking-Project/blob/main/YOLO11%20Tracking%202_12_2026%207_35_24%20PM.png)
 
-> Replace `prediction.png` with your real image name.
 
 ---
 
