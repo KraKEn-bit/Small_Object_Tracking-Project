@@ -5,7 +5,7 @@ It can track objects from a **video file** or in **real-time via webcam**, and s
 
 ---
 
-#**Features:**
+# **Features:**
 -  Object tracking using **YOLOv11 (Ultralytics)**
 -  Track objects in a **video file** (`object_tracker.py`)
 -  Track objects in **real-time webcam feed** (`stream.py`)
